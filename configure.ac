@@ -1,7 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 
 # init
-AC_INIT(vncterm, 0.1)
+AC_INIT(vncterm, 0.9.10)
 AM_INIT_AUTOMAKE
 
 # if this macro is defined, use it
